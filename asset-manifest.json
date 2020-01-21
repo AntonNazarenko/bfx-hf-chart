@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.269d7ac2.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.9ae09be1.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.9ae09be1.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.5abed82c.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.5abed82c.js.map",
-    "static/js/2.19aeeefe.chunk.js": "/react-gh-pages/static/js/2.19aeeefe.chunk.js",
-    "static/js/2.19aeeefe.chunk.js.map": "/react-gh-pages/static/js/2.19aeeefe.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.3c213a2b1456152fb45c76e504be23ec.js": "/react-gh-pages/precache-manifest.3c213a2b1456152fb45c76e504be23ec.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.269d7ac2.chunk.css.map": "/react-gh-pages/static/css/main.269d7ac2.chunk.css.map",
-    "static/js/2.19aeeefe.chunk.js.LICENSE": "/react-gh-pages/static/js/2.19aeeefe.chunk.js.LICENSE",
-    "static/media/styles.css": "/react-gh-pages/static/media/untitled-font-6.cd0b925c.ttf"
+    "main.css": "/bfx-hf-chart/static/css/main.d15ec8d2.chunk.css",
+    "main.js": "/bfx-hf-chart/static/js/main.040494ae.chunk.js",
+    "main.js.map": "/bfx-hf-chart/static/js/main.040494ae.chunk.js.map",
+    "runtime-main.js": "/bfx-hf-chart/static/js/runtime-main.9d059ed7.js",
+    "runtime-main.js.map": "/bfx-hf-chart/static/js/runtime-main.9d059ed7.js.map",
+    "static/js/2.611ed94f.chunk.js": "/bfx-hf-chart/static/js/2.611ed94f.chunk.js",
+    "static/js/2.611ed94f.chunk.js.map": "/bfx-hf-chart/static/js/2.611ed94f.chunk.js.map",
+    "index.html": "/bfx-hf-chart/index.html",
+    "precache-manifest.0f6df0639b4188e289069f541f8adc8b.js": "/bfx-hf-chart/precache-manifest.0f6df0639b4188e289069f541f8adc8b.js",
+    "service-worker.js": "/bfx-hf-chart/service-worker.js",
+    "static/css/main.d15ec8d2.chunk.css.map": "/bfx-hf-chart/static/css/main.d15ec8d2.chunk.css.map",
+    "static/js/2.611ed94f.chunk.js.LICENSE": "/bfx-hf-chart/static/js/2.611ed94f.chunk.js.LICENSE",
+    "static/media/styles.css": "/bfx-hf-chart/static/media/untitled-font-6.cd0b925c.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.5abed82c.js",
-    "static/js/2.19aeeefe.chunk.js",
-    "static/css/main.269d7ac2.chunk.css",
-    "static/js/main.9ae09be1.chunk.js"
+    "static/js/runtime-main.9d059ed7.js",
+    "static/js/2.611ed94f.chunk.js",
+    "static/css/main.d15ec8d2.chunk.css",
+    "static/js/main.040494ae.chunk.js"
   ]
 }
