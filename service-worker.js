@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bfx-hf-chart/precache-manifest.8f48d4c25102f3c3d86a0cbae5a1aea6.js"
+  "/bfx-hf-chart/precache-manifest.0b5208471e4203df1d230ead199a7d90.js"
 );
 
 self.addEventListener('message', (event) => {
