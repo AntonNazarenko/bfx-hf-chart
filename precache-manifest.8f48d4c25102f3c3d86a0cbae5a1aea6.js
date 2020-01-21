@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58cafd483136d9361469bb06d5640fc0",
+    "revision": "6e812c498342bd18adff75c4da31cbd2",
     "url": "/bfx-hf-chart/index.html"
   },
   {
-    "revision": "518503126af38003cee5",
+    "revision": "044c87cf528d6bad11d6",
     "url": "/bfx-hf-chart/static/css/main.d15ec8d2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bfx-hf-chart/static/js/2.611ed94f.chunk.js.LICENSE"
   },
   {
-    "revision": "518503126af38003cee5",
-    "url": "/bfx-hf-chart/static/js/main.040494ae.chunk.js"
+    "revision": "044c87cf528d6bad11d6",
+    "url": "/bfx-hf-chart/static/js/main.a9f71e79.chunk.js"
   },
   {
     "revision": "dcbf3d89cf466e28e274",

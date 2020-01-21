@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bfx-hf-chart/static/css/main.d15ec8d2.chunk.css",
-    "main.js": "/bfx-hf-chart/static/js/main.040494ae.chunk.js",
-    "main.js.map": "/bfx-hf-chart/static/js/main.040494ae.chunk.js.map",
+    "main.js": "/bfx-hf-chart/static/js/main.a9f71e79.chunk.js",
+    "main.js.map": "/bfx-hf-chart/static/js/main.a9f71e79.chunk.js.map",
     "runtime-main.js": "/bfx-hf-chart/static/js/runtime-main.9d059ed7.js",
     "runtime-main.js.map": "/bfx-hf-chart/static/js/runtime-main.9d059ed7.js.map",
     "static/js/2.611ed94f.chunk.js": "/bfx-hf-chart/static/js/2.611ed94f.chunk.js",
     "static/js/2.611ed94f.chunk.js.map": "/bfx-hf-chart/static/js/2.611ed94f.chunk.js.map",
     "index.html": "/bfx-hf-chart/index.html",
-    "precache-manifest.0f6df0639b4188e289069f541f8adc8b.js": "/bfx-hf-chart/precache-manifest.0f6df0639b4188e289069f541f8adc8b.js",
+    "precache-manifest.8f48d4c25102f3c3d86a0cbae5a1aea6.js": "/bfx-hf-chart/precache-manifest.8f48d4c25102f3c3d86a0cbae5a1aea6.js",
     "service-worker.js": "/bfx-hf-chart/service-worker.js",
     "static/css/main.d15ec8d2.chunk.css.map": "/bfx-hf-chart/static/css/main.d15ec8d2.chunk.css.map",
     "static/js/2.611ed94f.chunk.js.LICENSE": "/bfx-hf-chart/static/js/2.611ed94f.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9d059ed7.js",
     "static/js/2.611ed94f.chunk.js",
     "static/css/main.d15ec8d2.chunk.css",
-    "static/js/main.040494ae.chunk.js"
+    "static/js/main.a9f71e79.chunk.js"
   ]
 }
